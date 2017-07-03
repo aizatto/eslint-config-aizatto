@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-aizatto",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aizatto/nodejs.git"
+  }
+}
